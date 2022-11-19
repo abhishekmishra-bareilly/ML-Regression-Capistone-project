@@ -21,6 +21,7 @@ Bike Sharing Demand Prediction
 
 * According to bar plot we can say that **Rented Bike Count** is very high in **june** month.
 
+#  **Conclusion from Model Training**
 
 **Abut some Feature engineering**
 
@@ -35,6 +36,7 @@ Bike Sharing Demand Prediction
 * Using correlation plot we find **"Dew point temperature(°C)"** variable is higlly correlated.
 
 * Using VIF there is '**Dew point temperature(°C)'** is **multicollinearity**.So decide to drop Dew point temperature(°C).
+
 
 **About models**
 
