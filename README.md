@@ -1,4 +1,4 @@
-# ML-Regression-project
+# Bike Sharing Demand Prediction(Regression)
 Bike Sharing Demand Prediction
 
 ## EDA Conclusion
@@ -21,7 +21,7 @@ Bike Sharing Demand Prediction
 
 * According to bar plot we can say that **Rented Bike Count** is very high in **june** month.
 
-#  **Conclusion from Model Training**
+##  **Conclusion for Model Training**
 
 **Abut some Feature engineering**
 
