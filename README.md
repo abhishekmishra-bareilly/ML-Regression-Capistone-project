@@ -23,7 +23,7 @@ Bike Sharing Demand Prediction
 
 ##  **Conclusion for Model Training**
 
-**Abut some Feature engineering**
+**Abut some Feature engineering:-**
 
 * First we convert chatogorical values to num values.
 
@@ -38,7 +38,7 @@ Bike Sharing Demand Prediction
 * Using VIF there is '**Dew point temperature(°C)'** is **multicollinearity**.So decide to drop Dew point temperature(°C).
 
 
-**About models**
+**About models:-**
 
 * Also using **Power Transformer** for scaling and transform it after train test split so we can aboide overfitting.
 
